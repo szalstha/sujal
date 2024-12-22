@@ -8,7 +8,7 @@ int main() {
     std::cout << "Enter the length of the rectangle: ";
     std::cin >> length;
 
-    std::cout << "Enter the width of the rectangle: ";
+    std::cout << "Enter the width of  rectangle: ";
     std::cin >> width;
 
     // Calculate area

@@ -15,7 +15,7 @@ int main() {
     area = length * width;
 
     // Display the result
-    std::cout << "The area of the rectangle : " << area << std::endl;
+    std::cout << "The area of the rectangle is: " << area << std::endl;
 
     return 0;
 }
